@@ -184,10 +184,10 @@
   text-align: center;
   display: inline-block;
   margin: 0px 5px;
-  padding: 5px 2px 5px 3px;
+  padding: 5px 2px 5px 2px;
   line-height: 14px;
   font-size: 12px;
-  width: 17px;
+  width: 18px;
   height: 12px;
   text-decoration: none;
   color: var(--monoc3);

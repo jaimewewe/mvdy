@@ -5,14 +5,14 @@
 }
 
 .cr-bk {
-  width: 898px;
+  width: 848px;
   background: var(--monoc1);
   min-height: 300px;
   margin: auto;
 }
 
 .cr-bk .cr-pic {
-  width: 898px;
+  width: 848px;
   height: 200px;
   background: #000;
   background-size: cover;
@@ -36,7 +36,7 @@
   border: 10px solid var(--monoc1);
   border-radius: 50%;
   margin-top: -85px;
-  margin-left: 364px;
+  margin-left: 339px;
   position: absolute;
 }
 
@@ -47,7 +47,7 @@
   font-weight: 900;
   letter-spacing: -4px;
   padding-right: 4px;
-  width: 360px;
+  width: 335px;
   text-align: right;
   background-image: -webkit-linear-gradient(80deg, var(--bkred), var(--bkblue) 85%);
   line-height: 100%;
@@ -58,10 +58,10 @@
 }
 
 .cr-bk .cr-nav {
-  margin-left: 530px;
+  margin-left: 505px;
   position: absolute;
   margin-top: 9px;
-  width: 368px;
+  width: 343px;
 }
 
 .cr-bk .cr-nav a {
@@ -80,7 +80,7 @@
 }
 
 .cr-bk .cr-fs {
-  width: 898px;
+  width: 100%;
   margin-top: 90px;
   text-align: center;
 }

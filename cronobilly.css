@@ -129,7 +129,7 @@
 
 /*fases*/
 .crf-bk {
-  width: 527px;
+  width: 477px;
   background: var(--monoc2);
   min-height: 300px;
   margin: auto;
@@ -139,7 +139,7 @@
 }
 
 .crf-bk .crf-b1 {
-  width: 200px;
+  width: 150px;
   min-height: 300px;
   height: 100%;
 }

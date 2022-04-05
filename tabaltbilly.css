@@ -14,7 +14,7 @@
   height: 100px;
   padding: 2px;
   background-image: -webkit-linear-gradient(45deg, var(--bkred), var(--bkblue));
-  margin: 0px auto 50px;
+  margin: 0px auto 30px;
   border-radius: 50%;
 }
 
